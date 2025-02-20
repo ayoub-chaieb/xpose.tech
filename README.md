@@ -2,3 +2,4 @@
 # TODO:
 # -> Add  content to the pages 
 # -> Add  logo and image accordingly 
+# -> Add  Calendly to contact
